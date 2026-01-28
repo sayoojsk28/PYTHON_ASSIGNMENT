@@ -1,0 +1,59 @@
+1. How does AI differ from traditional programming?
+Traditional programming follows fixed rules written by humans, while AI learns patterns and makes decisions from data.
+
+2. What are some real-world applications of AI?
+AI is used in voice assistants, recommendation systems, medical diagnosis, self-driving cars, and face recognition.
+
+3. Explain the difference between Narrow AI, General AI and Super AI.
+Narrow AI performs specific tasks, General AI can perform any human-level task, and Super AI surpasses human intelligence.
+
+4. Explain how Super AI could potentially surpass human intelligence.
+Super AI can process massive data, improve itself continuously, and make faster and more accurate decisions than humans.
+
+5. What ethical concerns are associated with Super AI?
+Ethical issues include loss of human control, job displacement, misuse of power, and threats to human safety.
+
+6. What is Reactive Machine AI? Give examples.
+Reactive AI responds only to current input without memory; examples include IBM Deep Blue and basic game-playing AI.
+
+7. Explain the concept of Theory of Mind AI.
+Theory of Mind AI can understand emotions, beliefs, and intentions of humans to interact socially.
+
+8. How does Limited Memory AI differ from Reactive AI?
+Limited Memory AI learns from past data, while Reactive AI has no memory and reacts only to present situations.
+
+9. How does Machine Learning relate to Artificial Intelligence?
+Machine Learning is a subset of AI that enables systems to learn and improve automatically from data.
+
+10. Give examples of Machine Learning applications in daily life.
+Examples include email spam filters, YouTube recommendations, voice assistants, and online shopping suggestions.
+
+11. What is the difference between training and testing data?
+Training data is used to teach the model, while testing data is used to evaluate its performance.
+
+12. Which learning method is best suited for labeled data?
+Supervised learning is best suited for labeled data.
+
+13. Compare Supervised and Unsupervised Learning.
+Supervised learning uses labeled data, while unsupervised learning works with unlabeled data.
+
+14. Explain the difference between classification and regression.
+Classification predicts categories, while regression predicts continuous numerical values.
+
+15. What is overfitting in supervised learning?
+Overfitting occurs when a model learns training data too well and performs poorly on new data.
+
+16. How does unsupervised learning differ from supervised learning?
+Unsupervised learning finds patterns without labels, while supervised learning learns from labeled data.
+
+17. What is dimensionality reduction?
+Dimensionality reduction reduces the number of input features while preserving important information.
+
+18. How does reinforcement learning differ from supervised learning?
+Reinforcement learning learns through rewards and actions, while supervised learning learns from labeled examples.
+
+19. Explain the concept of “reward” in RL.
+A reward is feedback that tells the agent how good or bad an action was.
+
+20. What are some challenges in unsupervised learning?
+Challenges include lack of labels, difficulty in evaluation, and unclear interpretation of results.
